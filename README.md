@@ -1,38 +1,35 @@
-# 🥩 RedRoast
+# RedRoast
 
 ![image 13](https://github.com/VictorBravim/RedRoast/assets/122113588/21d289ea-e1b8-4d24-8b81-7ae26e363df7)
 
-## 🚀 Overview
+## <code>Introdução</code>
 
-This project demonstrates how to build a simple website using Vue.js and integrating styles with Tailwind CSS. It features a sticky navigation bar, a hero section with a background image, a products section displayed in a grid format, an "About Us" section with cards, and a basic footer.
+Este repositório foi criado para fins de estudo, demonstrando como construir um site simples utilizando Vue.js integrado ao Tailwind CSS. O projeto inclui uma barra de navegação fixa, uma seção principal com imagem de fundo, área de produtos em formato de grade, seção "Sobre nós" com cards e um rodapé básico.
 
-## 📋 Requirements
-
+## <code>Pré-requisitos</code>
 
 - Node.js (versão 10.x ou superior)
-- Vue CLI (instalado globalmente)
+- Vue CLI instalada globalmente
 
-## 🔧 Installation
+## <code>Instalação</code>
 
-1. Clone this repository:
+1. Clone o repositório:
 
 ```
 git clone https://github.com/VictorBravim/RedRoast.git
 ```
-
-2. Navigate to the project directory:
+2. Acesse o diretório do projeto:
 
 ```
 cd RedRoast
 ```
-
-3. Install dependencies:
+3. Instale as dependências:
 
 ```
 npm install
-``` 
+```
 
-## 🛠️ Project Structure
+## <code>Estrutura do projeto</code>
 
 - AboutSection.vue
 - FooterSection.vue
@@ -41,6 +38,6 @@ npm install
 - ProductSection.vue
 - CardSection.vue
 
-## 📄 License
+## <code>Licença</code>
 
-- This project is licensed under the [MIT License](LICENSE).
+- Projeto sob licença [MIT License](LICENSE).
